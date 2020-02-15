@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mochammad Nurreza",
+        "age": 24,
+        "address": "jl. Cicukang Mekar2 no.56, Bandung",
+        "hobbies": ["Basket", "Bermain musik"],
+        "is_married": false,
+        "school": {
+            "highSchool": "SMAN 11 Bandung", 
+            "year_in": 2009, 
+            "year_out": 2012,
+            "major": "IPS",
+
+            "university": "Universitas Pendidikan Indonesia",
+            "year_in": 2012, 
+            "year_out": 2016,
+            "major": "Ilmu Komunikasi"
+        },
+        "skills": [{
+            "name": "Business Development",
+            "level": "advanced",
+        
+            "name": "Public Relations",
+            "level": "advanced",
+
+            "name": "Web Development",
+            "level": "beginner"}],
+
+        "interest_in_coding": true
+    }
+
+]
